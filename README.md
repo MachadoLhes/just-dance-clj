@@ -1,6 +1,6 @@
 # just-dance-clj
 
-FIXME
+A remade in clojure of https://github.com/MachadoLhes/JustDanceAPI
 
 ## Prerequisites
 
@@ -14,6 +14,6 @@ To start a web server for the application, run:
 
     lein ring server
 
-## License
+<!-- ## License
 
-Copyright © 2021 FIXME
+Copyright © 2021 FIXME -->
